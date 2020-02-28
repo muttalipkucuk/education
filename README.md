@@ -1,5 +1,6 @@
 # Reading materials and videos
 - [Development](#development)
+- [Roadmap](#roadmap)
 - [Shell](#shell)
 
 ## Development
@@ -8,7 +9,8 @@
 ## Shell
 - The Missing Semester of Your CS Education: https://missing.csail.mit.edu/
 
-
+## Roadmap
+- Web Developer Roadmap - 2018: https://github.com/muttalipkucuk/developer-roadmap
 
 # Interesting topics
 - Akka: Source --> (Flow) --> Sink
