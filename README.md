@@ -1,4 +1,4 @@
-# Tags
+# Reading materials and videos
 - [Development](#development)
 - [Shell](#shell)
 
@@ -7,3 +7,10 @@
 
 ## Shell
 - The Missing Semester of Your CS Education: https://missing.csail.mit.edu/
+
+
+
+# Interesting topics
+## Akka
+Source --> (Flow) --> Sind
+- backpressure
