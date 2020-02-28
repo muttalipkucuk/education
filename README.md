@@ -11,6 +11,5 @@
 
 
 # Interesting topics
-## Akka
-Source --> (Flow) --> Sind
-- backpressure
+- Akka: Source --> (Flow) --> Sink
+- Microservices: Backpressure
